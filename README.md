@@ -28,7 +28,7 @@ cd device/motorola
 
 git clone https://github.com/Remim7/OrangeFOX_device_nash.git -b fox_9.0 nash
 
-###-----Next,build recovery
+###-----Next,Build Recovery
 
 cd OrangeFox
 
